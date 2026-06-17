@@ -64,3 +64,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'activeadmin'
+gem 'devise'
+gem "dartsass-rails", "~> 0.5.1"
